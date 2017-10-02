@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+//服务端
 public class Server {
 
 	Map<Integer, User> map = new HashMap<Integer,User>();

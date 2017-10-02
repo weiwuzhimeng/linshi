@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+//测试
 public class Test {
 
 	public static void main(String[] args) throws UnknownHostException, IOException, InterruptedException {

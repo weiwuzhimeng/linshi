@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.net.SocketException;
 import java.util.Map;
 
-//代表一个app终端
+//代表一个app终端(在服务端的映射)
 public class User implements Runnable {
 
 	int id;
